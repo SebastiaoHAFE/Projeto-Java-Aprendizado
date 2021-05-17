@@ -17,6 +17,7 @@ public class exercicios {
 		System.out.println("Meu Objetivo: " + objetivo);
 		
 		System.out.println("------------------------------------------------");
+	
 		
 	}
 }
